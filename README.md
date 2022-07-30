@@ -1,3 +1,3 @@
 # 🚨 This repository moved!
 
-You can find it here: https://github.com/lkbaerenfaenger/understand-javascript-course-notes
+You can find it here: https://github.com/typeduke/understand-javascript-course-notes
